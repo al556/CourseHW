@@ -1,0 +1,29 @@
+
+img{
+  width: 300px;
+}
+
+table{
+
+  width: 100%;
+  white-space: nowrap;
+  table-layout: auto;
+  max-width: 100px;
+
+}
+
+table, th, td {
+
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+thead{
+  font-weight: bold;
+  text-align: center;
+}
+
+tfoot{
+  font-weight: bold;
+  text-align: center;
+}
