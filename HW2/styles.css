@@ -24,12 +24,7 @@ th, td {
 
 }
 
-thead{
-  font-weight: bold;
-  text-align: center;
-}
-
-tfoot{
+th{
   font-weight: bold;
   text-align: center;
 }
